@@ -1,8 +1,37 @@
 body {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background-color: aquamarine;
+    background-color: lightgray;
 }
 
 img {
-    width: 15cm;
+    width: 200px;
 }
+
+h1 {
+    color: red;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    background-color: lightblue;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.resaltar {
+    color: green;
+}
+
+li {
+    color: purple;
+}
+
+.combinacion {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    background-color: yellow;
+}
+
+/* 6, 9, 10, 12, 15 */
