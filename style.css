@@ -4,6 +4,7 @@ body {
 
 img {
     width: 200px;
+    border: 2px solid black;
 }
 
 h1 {
@@ -34,4 +35,21 @@ li {
     background-color: yellow;
 }
 
-/* 6, 9, 10, 12, 15 */
+div {
+    margin: 15px;
+}
+
+table {
+    padding: 10px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td, th {
+    padding: 5px;
+    border: 1px solid black;
+}
+
+#titulo-grande {
+    font-size: 30px;
+}
